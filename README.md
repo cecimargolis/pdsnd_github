@@ -1,4 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
 This project and the README file was created on the **23rd of December 2021**.
@@ -12,4 +11,4 @@ The project consists on creating an interactive experience for users in order to
 The files used for the project are *bikeshare.py*, *chicago.csv*, *new_york_city.csv* and *washington.csv*. The last three provided the data of the bikeshare systems in the respective cities.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The data used in this project for the analysis was provided by [Udacity](https://www.udacity.com/).
