@@ -9,7 +9,7 @@ This project and the README file was created on the **23rd of December 2021**.
 The project consists on creating an interactive experience for users in order to explore data related to bike share systems for three major cities in the United States (Chicago, New York City, and Washington).
 
 ### Files used
-Include the files used
+The files used for the project are *bikeshare.py*, *chicago.csv*, *new_york_city.csv* and *washington.csv*. The last three provided the data of the bikeshare systems in the respective cities.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
