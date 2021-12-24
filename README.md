@@ -6,7 +6,7 @@ This project and the README file was created on the **23rd of December 2021**.
 ### Project Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The project consists on creating an interactive experience for users in order to explore data related to bike share systems for three major cities in the United States (Chicago, New York City, and Washington).
 
 ### Files used
 Include the files used
